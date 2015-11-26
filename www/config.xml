@@ -17,7 +17,7 @@
   <content src="index.html"/>
   <access origin="*"/>
 
-  <plugin name="com.ionic.keyboard" spec="1.0.4" />
+  <plugin name="com.ionic.keyboard" spec="1.0.3" source="pgb" />
   <plugin name="cordova-plugin-console" spec="1.0.1" />
   <plugin name="cordova-plugin-device" spec="1.0.1" />
   <plugin name="cordova-plugin-splashscreen" spec="2.1.0" />
